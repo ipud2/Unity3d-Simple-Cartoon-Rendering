@@ -185,6 +185,7 @@ Shader "ASE_Cel"
 			ENDCG
 		}
 	}
+	//nothing
 	Fallback "Diffuse"
 	CustomEditor "ASEMaterialInspector"
 }
